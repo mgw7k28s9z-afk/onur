@@ -1,0 +1,6 @@
+{
+  "name": "Denge — Beslenme ve Sağlık Asistanı",
+  "description": "Yapay zeka destekli, sakin ve kişiselleştirilmiş Türkçe beslenme, kalori aralığı ve günlük sağlık asistanı.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
